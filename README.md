@@ -4,7 +4,7 @@ This is my first API project, followed along with <a href="https://www.youtube.c
 ## Notes
 
 <code>
-  fetch('http://example.com/movies.json')
-  .then(response => response.json())
+  fetch('http://example.com/movies.json')</b>
+  .then(response => response.json())</b>
   .then(data => console.log(data));
   </code>
