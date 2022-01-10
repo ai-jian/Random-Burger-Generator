@@ -3,7 +3,7 @@ This is my first API project, followed along with <a href="https://www.youtube.c
 
 Link to [Burger API](http://my-burger-api.herokuapp.com/burgers)
 
-## Notes
+## Methods
 
 ```
   fetch('http://example.com/movies.json')
